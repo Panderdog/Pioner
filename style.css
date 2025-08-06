@@ -117,3 +117,77 @@
   font-weight: 400;
   font-style: italic;
 }
+
+.title-block {
+    display: flex;
+    gap: 100px;
+    margin-top: 80px;
+}
+
+.title-heading {
+        margin-left: 129px;
+    margin-top: -1.1px;
+    margin-right: 1px;
+    font-size: 60px;
+    font-weight: bold;
+    line-height: 1.2;
+
+}
+
+.title-text {
+    margin-top: 24.4px;
+    margin-right: 348.8px;
+    font-size: 16px;
+    padding-right: 4px;
+    line-height: 1.2;
+}
+
+.title-image {
+    margin-left: 129px;
+    margin-top: 32px;
+}
+
+.about-heading {
+    font-size: 48px;
+    font-weight: bold;
+    margin-top: 69px;
+    margin-left: 129px;
+}
+
+.about-block {
+    display: flex;
+    gap: 20px;
+}
+
+.about-text {
+    font-size: 16px;
+    line-height: 138%;
+}
+
+.about-text-left {
+    margin-left: 129px;
+    margin-top: 27px;
+}
+
+.about-text-right {
+           margin-right: 159px;
+    margin-top: 26px;
+}
+
+.about-text-down {
+    margin: 23px 756px 24px 129px;
+}
+
+.about-images {
+    display: flex;
+    gap: 20px;
+    margin-top: 32px;
+}
+
+.welding {
+    margin-left: 130px;
+}
+
+.conveyor {
+    margin-right: 130px;
+}
