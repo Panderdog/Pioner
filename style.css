@@ -192,11 +192,14 @@
   margin-right: 130px;
 }
 
+.production {
+  margin-bottom: -5px;
+}
+
 .production-header {
   font-size: 48px;
   font-weight: bold;
   margin-top: 75px;
-
   margin-left: 129px;
 }
 
@@ -270,4 +273,16 @@
 
 .manometr-name {
   margin-top: 157px;
+}
+
+.map__title {
+  font-size: 48px;
+  font-weight: bold;
+  margin-top: 75px;
+  margin-left: 129px;
+}
+
+.map__image {
+  margin-top: 27px;
+  margin-left: 129px;
 }
